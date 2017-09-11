@@ -1,0 +1,22 @@
+{
+  "name": "start",
+  "version": "1.0.0",
+  "description": "热启动",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwwcc/start.git"
+  },
+  "author": "wc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wwwcc/start/issues"
+  },
+  "homepage": "https://github.com/wwwcc/start#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
